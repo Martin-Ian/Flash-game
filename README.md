@@ -1,5 +1,3 @@
-# Processing code
+# Flash code
 
-I'm guna first make a simple ame in processing
-
-This repo is where the code will go
+This repo may be empty for a while as I learn flash
